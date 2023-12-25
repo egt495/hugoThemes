@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/egt495/hugoThemes
 
 go 1.21.5
 
